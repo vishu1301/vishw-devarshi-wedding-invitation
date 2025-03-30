@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import vd from "../../assets/images/vd-banner.jpg";
 import {
   FlowerBloom,
   FlowerCorner,
