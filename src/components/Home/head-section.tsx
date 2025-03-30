@@ -100,7 +100,7 @@ function HeadSection() {
           className="flex flex-col md:flex-row items-center justify-center gap-4"
         >
           <Link
-            href="#mandap-muhrat"
+            to="#mandap-muhrat"
             className="px-8 py-3 bg-pink-500 hover:bg-pink-600 text-white rounded-full font-medium transition-all duration-300 shadow-md hover:shadow-lg flex items-center gap-2"
           >
             <Heart size={18} className="animate-pulse" />
@@ -131,7 +131,7 @@ function HeadSection() {
           transition={{ repeat: Number.POSITIVE_INFINITY, duration: 1.5 }}
         >
           <Link
-            href="#mandap-muhrat"
+            to="#mandap-muhrat"
             className="text-pink-600 flex flex-col items-center"
           >
             <span className="mb-2">Scroll Down</span>
