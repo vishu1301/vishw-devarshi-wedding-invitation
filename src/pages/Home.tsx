@@ -1,9 +1,5 @@
-import React from "react";
 import HeadSection from "../components/Home/head-section";
 import EventSection1 from "../components/Home/event-1";
-import vdimg1 from "../assets/images/cropped_xyz.png";
-import EventSection2 from "../components/Home/event-2";
-import vdimg2 from "../assets/images/WhatsApp Image 2025-03-30 at 15.03.50_f0812edc.jpg";
 import EventSection3 from "../components/Home/event-3";
 import EventSection4 from "../components/Home/event-4";
 import EventSection5 from "../components/Home/event-5";

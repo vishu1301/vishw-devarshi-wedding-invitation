@@ -1,14 +1,11 @@
 import { Link } from "react-router-dom";
 import { motion, useInView } from "framer-motion";
-import vd from "../../assets/images/vd-banner.jpg";
 import {
   FlowerBloom,
   FlowerCorner,
   FlowerOrnament,
-  HeartDecoration,
-  RingsSvg,
 } from "../decorative-element/decorative-element";
-import { Calendar, Clock, Heart, MapPin } from "lucide-react";
+import { Calendar, Clock, MapPin } from "lucide-react";
 import { useRef } from "react";
 
 function EventSection2({
